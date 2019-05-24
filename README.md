@@ -9,7 +9,7 @@ For the optimal JavaScript syntax experience, it is recommended to use [pangloss
 Using Plug, you can do the following:
 
 ```vim
-Plug 'reewr/vim-monokai-phoenix'
+Plug 'ziegfiroyt/vim-monokai-phoenix'
 ```
 
 Then do :PlugInstall and you're good to go
